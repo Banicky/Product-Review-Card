@@ -48,11 +48,11 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
+  background-color: var(--color-cream);
 }
 
 .container {
   width: 100%;
-  background-color: var(--color-cream);
   padding: 4rem 1rem;
   padding-bottom: 8rem; 
   display: flex;
